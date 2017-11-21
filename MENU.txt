@@ -1,0 +1,9 @@
+The ojective of this branch is to provide the client with an graphical menu, in ncurses.
+
+The menu should be:
+
+	1. Contacts
+	2. Add new contact
+	3. My profile
+	4. Settings
+	5. Terminate
